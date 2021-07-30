@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Johnnie Lopez.
+### Hi there 👋 , I'm Johnnie Lopez.
 
 I am passionate about web development, especially with JavaScript and React. 
 
