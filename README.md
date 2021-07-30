@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Johnnie Lopez.
 
+I am passionate about web development, especially with JavaScript and React. 
+
+I have been acquiring new programming skills in the Frontend side for about a year.
+
+- 🌱 I’m currently learning JavaScritp - React and HTML - CSS
 <!--
 **Johnnie-LC/Johnnie-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
