@@ -14,9 +14,9 @@ I have been acquiring new programming skills in the Frontend side for about a ye
 
 ## 📊 Stats
 
-[![Johnnie Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie-LC&show_icons=true&hide_border=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Johnnie Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie-LC&show_icons=true&hide_border=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Johnnie-LC&color=brightgreen)
 
