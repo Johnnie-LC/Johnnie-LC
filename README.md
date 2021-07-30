@@ -7,33 +7,27 @@ I have been acquiring new programming skills in the Frontend side for about a ye
 - 🌱 I’m currently learning JavaScritp - React and HTML - CSS
 
 ## 💬 Contact
-<a href='https://www.linkedin.com/in/johnnie-lopez-3343008/'><img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" /></a>
+[<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin]
 
 ## 🛠 Languages and Tools
-<a href="https://github.com/topics/html">
-  <img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-</a>
-<a href="https://github.com/topics/css">
-  <img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-</a>
-<a href="https://github.com/topics/javascript">
-  <img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-</a>
-<a href="https://reactjs.org/">
-  <img alt="REACT" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-<a href="https://redux.js.org/">
-  <img alt="redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
-</a>
-<a href="https://code.visualstudio.com/">
-  <img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</a>
-<a href="https://git-scm.com/">
-  <img alt="git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</a>
-<a href="https://github.com/">
-  <img alt="github" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html][<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css] [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS] [<img alt="REACT" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react][<img alt="redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>][redux][<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs] [<img alt="git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git] [<img alt="github" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+## 📊 Stats
+
+[![Johnnie Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie-LC&show_icons=true&hide_border=false&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Johnnie-LC)
+
+<!-- Reference URLs -->
+[html]: https://github.com/topics/html
+[css]:https://github.com/topics/css
+[JS]:https://github.com/topics/javascript
+[react]:https://reactjs.org/
+[redux]:https://redux.js.org/
+[vs]:https://code.visualstudio.com/
+[git]:https://git-scm.com/
+[github]:https://github.com/
+[linkedin]:https://www.linkedin.com/in/johnnie-lopez-3343008
 
 
 <!--
