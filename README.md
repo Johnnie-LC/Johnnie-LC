@@ -4,7 +4,7 @@ I'm passionate about web development, especially with JavaScript and React.
 
 I have been acquiring new programming skills in the Frontend side for about a year.
 
-- 🌱 I’m currently learning JavaScritp - React and HTML - CSS
+- 🌱 I’m currently learning REACT - JEST and CSS - Sass
 
 ## 💬 Contact
 [<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin]
