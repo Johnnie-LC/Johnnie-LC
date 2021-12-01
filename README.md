@@ -10,7 +10,7 @@ I have been acquiring new programming skills in the Frontend side.
 [<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin]
 
 ## 🛠 Languages and Tools
-[<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html][<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css] [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS] [<img alt="REACT" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react][<img alt="redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>][redux][<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs] [<img alt="git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git] [<img alt="github" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+HTML - CSS - JavaScript - React JS - Redux JS - git
 
 ## 📊 Stats
 
