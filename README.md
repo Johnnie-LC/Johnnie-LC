@@ -4,15 +4,15 @@ I'm frontend developer in JavaScript and React, using technologies such as Redux
 
 I'm medical physics with experience in the implementation of Monte Carlo Simulation in the areas of radiotherapy and radiation protection.
 
-I'm open to offers.
+I'm open to offers [contact me](mailto:johesloc@gmail.com).
 
 - 🌱 I am currently interested in REACT - JEST - TDD and CSS - MATERIAL UI
 
-## 💬 Contact
-[<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin]
+## 💬 [Contact me](mailto:johesloc@gmail.com)
+[<img alt="LinkedIn" width="40" height="40" src="https://img.icons8.com/android/48/4a90e2/linkedin.png" />][linkedin] 
 
 ## 🛠 Languages and Tools
-HTML - CSS - JavaScript - React JS - Redux JS - git
+`HTML`  `CSS`  `JavaScript`  `React JS`  `Redux JS`  `git`
 
 ## 📊 Stats
 
