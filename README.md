@@ -4,6 +4,7 @@ I'm passionate about web development, especially with JavaScript and React.
 
 I have been acquiring new programming skills in the Frontend side.
 
+<h1>Johnnie Lopez</h1>
 - 🌱 I am currently interested in REACT - JEST - TDD and CSS - MATERIAL UI
 
 ## 💬 Contact
