@@ -16,9 +16,9 @@ HTML - CSS - JavaScript - React JS - Redux JS - git
 
 ## 📊 Stats
 
-[![Johnnie Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie-LC&show_icons=true&hide_border=false&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Johnnie Lopez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnnie-LC&show_icons=true&hide_border=false&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Johnnie-LC&color=brightgreen)
 ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
