@@ -1,4 +1,4 @@
-### Hi there 👋 , I am Johnnie.
+### Hi there 👋 , I'm Johnnie.
 
 I'm frontend developer in JavaScript and React, using technologies such as Redux and Material UI for the creation of web applications and following the standards and good practices in design and development.
 
