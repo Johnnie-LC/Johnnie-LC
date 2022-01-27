@@ -1,10 +1,11 @@
 ### Hi there 👋 , I am Johnnie.
 
-I'm passionate about web development, especially with JavaScript and React. 
+I'm frontend developer in JavaScript and React, using technologies such as Redux and Material UI for the creation of web applications and following the standards and good practices in design and development.
 
-I have been acquiring new programming skills in the Frontend side.
+I'm medical physics with experience in the implementation of Monte Carlo Simulation in the areas of radiotherapy and radiation protection.
 
-<h1>Johnnie Lopez</h1>
+I'm open to offers.
+
 - 🌱 I am currently interested in REACT - JEST - TDD and CSS - MATERIAL UI
 
 ## 💬 Contact
