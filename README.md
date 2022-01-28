@@ -1,6 +1,9 @@
 ### Hi there 👋 , I'm Johnnie.
 
-![background](./img/background.png)
+<p align="center">
+<img src='./img/backgroundL.png' alt='background' />&nbsp;&nbsp;
+</p>
+
 
 I'm frontend developer in JavaScript and React, using technologies such as Redux and Material UI for the creation of web applications and following the standards and good practices in design and development.
 
