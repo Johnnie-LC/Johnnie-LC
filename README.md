@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Johnnie.
 
 <p align="center">
-<img src='./img/backgroundL.png' alt='background' />&nbsp;&nbsp;
+<img width='100%' src='./img/backgroundL.png' alt='background' />&nbsp;&nbsp;
 </p>
 
 
