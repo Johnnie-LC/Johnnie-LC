@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'm Johnnie.
 
+![background](./img/background.png)
+
 I'm frontend developer in JavaScript and React, using technologies such as Redux and Material UI for the creation of web applications and following the standards and good practices in design and development.
 
 I'm medical physics with experience in the implementation of Monte Carlo Simulation in the areas of radiotherapy and radiation protection.
