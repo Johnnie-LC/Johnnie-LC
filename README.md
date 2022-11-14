@@ -24,6 +24,7 @@ I'm open to offers [contact me](mailto:johesloc@gmail.com).
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/npm/types/typescript?style=for-the-badge&logo=appveyor" alt="TyPescript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="Router" />&nbsp;&nbsp;
