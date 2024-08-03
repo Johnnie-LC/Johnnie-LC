@@ -12,7 +12,7 @@ I'm medical physics with experience in the implementation of Monte Carlo Simulat
 I'm open to offers [contact me](mailto:johesloc@gmail.com).
 
 ## 💬 Contact me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin] 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />][[linkedin](https://www.linkedin.com/in/jlopez-dev/)] 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />](mailto:johesloc@gmail.com)
 ## 🛠 Languages and Tools
  
